@@ -4,7 +4,7 @@ I'm a Front End software engineer, exercise enthusiast, and outdoorsy type perso
 
 ***
 
-- 💻  I am currently studying at [Turing School of Software and Design](https://turing.edu/)
+- 💻  Graduate of [Turing School of Software and Design](https://turing.edu/)
 - ❤️   My favorite project: [Rancid Tomatillos](https://github.com/nhodnett/rancid-tomatillos)
 - 🏋️‍♂️  When i'm not coding I love to be active! Either working out, or outside enjoying all Colorado has to offer!
 
